@@ -4,7 +4,7 @@ Hi 👋 My name is Antonella Cardozo
 Software Developer
 ------------------
 
-* 🌍  I'm based in Stockholm
+* 🌍  I'm based in Stockholm, Sweden.
 * 🖥️  See my portfolio at [SailorNina](http://portfolio-antonella.netlify.app/)
 * ✉️  You can contact me at [sylcardozo.sc@gmail.com](mailto:sylcardozo.sc@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
