@@ -7,7 +7,6 @@ Software Developer
 * 🌍  I'm based in Stockholm, Sweden.
 * 🖥️  See my portfolio at [SailorNina](https://antonella-technigo-portfolio.netlify.app/).
 * ✉️  You can contact me at [sylcardozo.sc@gmail.com](mailto:sylcardozo.sc@gmail.com).
-* 🧠  I'm learning Node.js and Express.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
