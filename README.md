@@ -5,9 +5,9 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Stockholm, Sweden.
-* 🖥️  See my portfolio at [SailorNina](https://antonellacardozo-react-portfolio.netlify.app/).
+* 🤝  I'm open to working remotely, freelance or hybrid on interesting projects.
+* 👩‍💻  I'm interested in working with Node.js or React.js, and I'm also curious to learn Java.
 * ✉️  You can contact me at [sylcardozo.sc@gmail.com](mailto:sylcardozo.sc@gmail.com).
-* 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
 
