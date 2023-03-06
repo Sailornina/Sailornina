@@ -1,4 +1,4 @@
-Hi 👋 My name is Antonella Cardozo
+Hi 👋
 ==================================
 
 Software Developer
