@@ -4,9 +4,9 @@ Hi 👋
 Software Developer
 ------------------
 
-* 🌍  I'm based in Stockholm, Sweden.
-* 🤝  I'm open to working remotely, freelance or hybrid on interesting projects.
-* 👩‍💻  I'm interested in working with Node.js or React.js, and I'm also curious to learn Java.
+* 🌍  I am an Argentine living in Sweden, so I can work in both countries.
+* 🤝  I'm open to working remotely, freelance, or hybrid on interesting projects.
+* 👩‍💻  I'm interested in working with Node.js or React.js. Currently, I'm learning Java at JetBrains Academy.
 * ✉️  You can contact me at [sylcardozo.sc@gmail.com](mailto:sylcardozo.sc@gmail.com).
 
 ### Skills
